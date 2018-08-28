@@ -6,8 +6,8 @@ Javascript class support
 ### In the browser
 Download the [production version][min] or the [development version][max].
 
-[min]: https://raw.github.com/cuizuoli/class.support/master/dist/class.support.min.js
-[max]: https://raw.github.com/cuizuoli/class.support/master/dist/class.support.js
+[min]: https://raw.githubusercontent.com/xiaoyao880609/class.support/master/js/class.support.min.js
+[max]: https://raw.githubusercontent.com/xiaoyao880609/class.support/master/js/class.support.js
 
 In your web page:
 
